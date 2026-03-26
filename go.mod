@@ -1,3 +1,3 @@
-module github.com/aptspyder/ungate/v2
+module github.com/aptspyder/ungate
 
 go 1.21
