@@ -19,7 +19,7 @@ Automatically tests **verb tampering, header injection, path manipulation, doubl
 
 ## Install
 ```bash
-go install github.com/aptspyder/ungate@latest
+go install github.com/aptspyder/v2/ungate@latest
 ```
 
 **Add to PATH:**
