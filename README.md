@@ -17,7 +17,7 @@ so every hit it surfaces is genuinely interesting.
 
 ## Installation
 ```
-go install github.com/yourusername/ungate@latest
+go install github.com/aptspyder/ungate/v2@latest
 ```
 
 ## Usage
